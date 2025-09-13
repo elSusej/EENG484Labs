@@ -5,14 +5,14 @@
 -- Create Date: 09/10/2025 09:16:35 AM
 -- Design Name: 
 -- Module Name: enhancedPwm - Behavioral
--- Project Name: 
--- Target Devices: 
+-- Project Name: Lab 1 - Enhanced Pwm
+-- Target Devices: N/A
 -- Tool Versions: 
 -- Description: 
 -- 
--- Dependencies: 
+-- Dependencies: basicBuildingBlocks packes, IEEE.STD_LOGIC_1164
 -- 
--- Revision:
+-- Revision: 3
 -- Revision 0.01 - File Created
 -- Additional Comments:
 -- 
